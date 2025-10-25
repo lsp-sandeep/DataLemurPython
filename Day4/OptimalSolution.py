@@ -2,7 +2,7 @@
 
 def trailing_zeroes(n):
   
-  fives, twos = 0, 0
+  fives = 0
   
   for i in range(1, n+1):
     
